@@ -52,4 +52,4 @@
     ```sql
     SELECT * FROM ssafy_1241530 WHERE agency_nm LIKE '%서울%';
     ```
-    [export data 보기](12기_서울12반_1241530.csv)
+    [export data 보기](./assets/export-data.csv)
