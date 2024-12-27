@@ -57,24 +57,24 @@
      - 코드에서 import하여 사용
    - 의존성 업데이트 : 터미널에서 `flutter pub upgrade` 명령어 실행
 4. Write your first app 파트를 끝까지 구현해보고 동작시키기
-   - 버튼 추가 : 버튼 클릭 시 랜덤 단어 노출
-     <image src="./assets/버튼추가.gif" height='100' style="display:block"/>
-   - 위젯 꾸미기 : 랜덤 변경 단어 위젯으로 변경 및 스타일 적용
-     <image src="./assets/위젯꾸미기.png" height='300' style="display:block"/>
-   - 좋아요 기능 추가
-     <image src="./assets/좋아요기능.gif" height='100' style="display:block"/>
-   - 스테이트풀 위젯으로 변경 및 사이드(화면 변경) 추가
-     <image src="./assets/화면전환.gif" height='300' style="display:block"/>
-   - 새 페이지 추가 : 좋아요 한 단어 목록에 나타나도록
-     <image src="./assets/페이지추가.gif" height='300' style="display:block"/>
+   - 버튼 추가 : 버튼 클릭 시 랜덤 단어 노출   
+     <image src="./assets/버튼추가.gif" height='100' />
+   - 위젯 꾸미기 : 랜덤 변경 단어 위젯으로 변경 및 스타일 적용   
+     <image src="./assets/위젯꾸미기.png" height='300'/>
+   - 좋아요 기능 추가   
+     <image src="./assets/좋아요기능.gif" height='100' />
+   - 스테이트풀 위젯으로 변경 및 사이드(화면 변경) 추가   
+     <image src="./assets/화면전환.gif" height='300'/>
+   - 새 페이지 추가 : 좋아요 한 단어 목록에 나타나도록   
+     <image src="./assets/페이지추가.gif" height='300'/>
    - 구현 중 느낀점 : 웹 페이지 구현과는 조금 다른 방식이라 낯설었지만, 재미있게 따라한 것 같다. `Refactor`를 많이 알아야 쉽게 할 수 있을 거라는 것을 느꼈다. 프로젝트를 하나 만들어보고 싶다는 생각을 했다.
 
 ### 심화 과제
 
 1. 다수의 Flutter Samples 중 최소한 2개의 Platform을 선정하여 자유롭게 빌드해서 실행해보기
-   - macOS
-     <image src="./assets/macOS.gif" height='300' style="display:block"/>
-   - ios(iphone SE)
-     <image src="./assets/iphone.gif" height='300' style="display:block"/>
+   - macOS   
+     <image src="./assets/macOS.gif" height='300'/>
+   - ios(iphone SE)   
+     <image src="./assets/iphone.gif" height='300' />
 2. 본인이 개발하고 싶은 Cross-Platform 앱
    - 기존 Vue.js로 구현한 웹페이지인 Fitness BET 프로젝트를 Cross-Platform 앱으로 다시 구현해보고 싶다. 또는 추후 팀프로젝트를 모바일에 맞는 서비스쪽으로 방향을 맞추어 진행해보고 싶다.
